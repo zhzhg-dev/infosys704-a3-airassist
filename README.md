@@ -167,5 +167,3 @@ INFOSYS 704 A3 group. Course usernames are listed (not GitHub handles). Contribu
 | Yi Han | yhan606 | 25% |
 | Xiao Lin | xlin031 | 25% |
 | Zhuyi Xia | zxia461 | 25% |
-
-How the group works on this repository is described in [`CONTRIBUTING.md`](CONTRIBUTING.md).
