@@ -48,8 +48,7 @@ Run from the repository root:
   python -B -m unittest discover -s app/tests -t app/tests     (84 backend tests pass)
   node app/tests/frontend-state.cjs                            (53 frontend checks pass; needs Node.js)
 Current results: evidence/TEST_RESULTS_V1_5.txt and evidence/FRONTEND_TEST_RESULTS_V1_5.txt.
-Older V1.x files in evidence/ are the historical V1.4 baseline. OpenCode session exports from the
-original build are kept in evidence/ (OPENCODE_*).
+OpenCode session exports from the original build are kept in evidence/ (OPENCODE_*).
 
 Vercel environment variables (names only; never commit values)
 AIRASSIST_PASSENGER_PASSWORD, AIRASSIST_STAFF_PASSWORD, AIRASSIST_SESSION_SECRET,

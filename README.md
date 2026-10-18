@@ -110,7 +110,7 @@ python -B -m unittest discover -s app/tests -t app/tests
 node app/tests/frontend-state.cjs
 ```
 
-Current results: **84 backend tests and 53 frontend checks pass**. See `app/evidence/TEST_RESULTS_V1_5.txt` and `app/evidence/FRONTEND_TEST_RESULTS_V1_5.txt`. Older V1.x files in `app/evidence/` are the historical V1.4 baseline.
+Current results: **84 backend tests and 53 frontend checks pass**. See `app/evidence/TEST_RESULTS_V1_5.txt` and `app/evidence/FRONTEND_TEST_RESULTS_V1_5.txt`.
 
 ## Deploy to Vercel
 
