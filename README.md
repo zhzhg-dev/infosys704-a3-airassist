@@ -155,7 +155,6 @@ app/
   .env.example       Configuration template without secrets
 api/index.py         Vercel function entry point
 docs/demo.gif        Walkthrough shown above
-A3_App_V1/           Historical V1.4 baseline (ZIP, QA records, screenshots)
 ```
 
 ## Team

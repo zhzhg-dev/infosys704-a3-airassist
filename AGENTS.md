@@ -10,7 +10,6 @@ No payment is made and nothing is written to SAP.
 - `app/cloud_handler.py`, `app/cloud_access.py`, `app/cloud_store.py`, `api/index.py`, `vercel.json` — Vercel deployment (signed anonymous session cookie, SQLite snapshots in private Vercel Blob). Keep these working.
 - `app/public/` — HTML, CSS and JavaScript frontend (no build step, no npm dependencies).
 - `app/tests/` — backend unittest suite (including cloud tests) and `frontend-state.cjs` checks.
-- `A3_Presentation/`, `A3_App_V1/` — presentation files and the accepted V1.4 baseline. Do not edit unless asked.
 
 ## Rules
 - Never read, print or edit `.env`, API keys or `app/.data/`. The SAP key is only read at runtime from the local `.env`.
