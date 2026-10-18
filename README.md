@@ -1,5 +1,7 @@
 <h1 align="center">AirAssist</h1>
 
+**Live deployment:** [Open AirAssist](https://infosys704-a3-airassist.vercel.app/)
+
 <p align="center">
  <strong>One-tap refunds for disrupted Air New Zealand flights.</strong><br/>
  Passengers request a full refund in seconds. Staff approve it with every detail in front of them.
@@ -153,7 +155,6 @@ app/
   .env.example       Configuration template without secrets
 api/index.py         Vercel function entry point
 docs/demo.gif        Walkthrough shown above
-A3_Presentation/     Slides, speaking script and group checklist
 A3_App_V1/           Historical V1.4 baseline (ZIP, QA records, screenshots)
 ```
 
